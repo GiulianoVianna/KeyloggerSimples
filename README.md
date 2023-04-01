@@ -1,5 +1,5 @@
-# Keylooger Simples
-Keylooger Simples desenvolvido em python para estudo.
+# Keylogger Simples
+Keylogger Simples desenvolvido em python para estudo.
 
 ## Definição da Aplicação
 Esta é uma aplicação de keylogger simples em Python que registra as teclas pressionadas pelo usuário e envia o registro por e-mail periodicamente. 
