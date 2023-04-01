@@ -41,7 +41,7 @@ def send_mail():
     body = "Corpo do e-mail"
 
     # Configurações do servidor SMTP
-    smtp_server = "mail.setacv.com.br"
+    smtp_server = ""
     smtp_port = 26
 
     # Criar a mensagem de e-mail
